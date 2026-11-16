@@ -56,9 +56,3 @@ Os dados de consumo, a tarifa, os preços, a irradiação solar e o fator de emi
 | A) Eficiência | ~42 kWh (~R$ 38) | ~R$ 136 | ~4 meses |
 | B) Aquecedor solar de água | ~62 kWh (~R$ 55) | ~R$ 4.500 | ~6,8 anos |
 | C) Fotovoltaico 1,5 kWp | ~162 kWh (~R$ 124) | ~R$ 7.500 | ~5,0 anos |
-
-## Limitações
-Os resultados são estimativas e não garantias de economia. Variam com hábitos, tarifa da distribuidora, sombreamento e clima.
-
-## Uso de IA generativa
-Foi utilizada IA generativa como apoio. Dados, cálculos, referências e recomendações foram verificados pelo grupo.
