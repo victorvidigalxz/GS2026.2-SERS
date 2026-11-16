@@ -19,5 +19,3 @@
 | 2 | Responsável pela conta de luz da casa | "qual alternativa vale mais a pena?" | Parcialmente | Prazo em "0.3 anos" é confuso | Prazos curtos em meses |
 | 3 | Pessoa interessada em energia solar | "vale a pena colocar placa solar?" | Sim, após o ajuste | Esperava resposta só sobre solar | Resposta específica para solar |
 
-## Observação
-Os resultados dependem de estimativas e não garantem economia. Recomenda-se repetir esta etapa com usuários reais quando possível.
